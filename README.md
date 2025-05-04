@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">My name is Michael and I'm a beginner developer.</p>
+<p align="left">My name is Michael and I'm a beginner developer.
+🔧 I love exploring game development, low-level graphics, and clean, maintainable code.
+📁 Check out my repositories to see what I'm building, learning, and experimenting with.
+📫 Always open to collaboration or feedback — let’s build something great!</p>
 
 ###
 
