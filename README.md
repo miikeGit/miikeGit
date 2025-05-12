@@ -3,7 +3,7 @@
 ###
 
 <p align="left">My name is Michael and I'm a beginner developer.
-  🔧 I love exploring game development, low-level graphics, and clean, maintainable code.
+  🔧 I love exploring game development and low-level code.
   📁 Check out my repositories to see what I'm building, learning, and experimenting with.</p>
 
 ###
