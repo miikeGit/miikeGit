@@ -1,11 +1,9 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-
-<p align="left">My name is Michael and I'm a beginner developer.
-  🔧 I love exploring low-level code.
+  
   📁 Check out my repositories to see what I'm building, learning, and experimenting with.</p>
-
+  
 ###
 
 <h2 align="left">I code with</h2>
